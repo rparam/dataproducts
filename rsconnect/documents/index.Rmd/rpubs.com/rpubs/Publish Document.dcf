@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/189920/045529844f89427e862719aa238934dc
+bundleId: https://api.rpubs.com/api/v1/document/189920/045529844f89427e862719aa238934dc
+url: http://rpubs.com/rameshparamkusham/189920
+when: 1466119674.37816
