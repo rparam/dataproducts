@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 2. This is one of the courses for Data Science Specialization
 3. It has two parts
     - Shiny app developed and deployed to Shiny portal
-       - http://rameshparamkusham.shinyapps.io/shiny/
+       - http://rameshparamkusham.shinyapps.io/shiny
     - A reproducible pitch for the presentation on the Shiny app developed, including the source code is available on        github
        - http://rparam.github.io/dataproducts
 

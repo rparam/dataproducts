@@ -1,5 +1,5 @@
 ---
-title       : Devloping Data Products - Coursera Project
+title       : Developing Data Products - Coursera Project
 subtitle    : MPG dependency of Cars on Weight, Transmission, Horse Power and other variables
 author      : Ramesh Paramkusham
 job         : 
